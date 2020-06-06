@@ -7,7 +7,7 @@ verify_ssl = true
 ipdb = "*"
 
 [packages]
-django = "==3.0.6"
+django = "==3.0.7"
 pynamodb = "*"
 
 [requires]
